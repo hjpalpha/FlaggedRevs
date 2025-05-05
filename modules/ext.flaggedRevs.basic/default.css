@@ -198,19 +198,19 @@ span.flaggedrevs-icon {
 
 /* Special pages */
 .fr-pending-long {
-	background-color: #eaecf0;
+	background-color: var( --clr-surface-2, #eaecf0 );
 }
 
 .fr-pending-long2 {
-	background-color: #fee7e6;
+	background-color: var( --clr-surface-3, #fee7e6 );
 }
 
 .fr-pending-long3 {
-	background-color: #c8ccd1;
+	background-color: var( --clr-surface-4, #fee7e6 );
 }
 
 .fr-unreviewed-unwatched {
-	background-color: #fee7e6;
+	background-color: var( --clr-surface-3, #fee7e6 );
 }
 
 .mw-fr-reviewlink {
